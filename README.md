@@ -43,3 +43,5 @@ Il sistema opera come una **Macchina a Stati Finiti**:
 6. **Ripristino:** Il semaforo pedonale torna ROSSO e la strada riceve nuovamente il VERDE.
 
 ---
+
+📂 [Scarica la Presentazione Tecnica del Progetto (PDF)](./docs/Guida_Progetto_Semaforo.pdf)
