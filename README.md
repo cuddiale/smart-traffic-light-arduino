@@ -4,13 +4,13 @@ L'obiettivo principale è dimostrare una gestione efficiente delle temporizzazio
 
 ---
 
-## 🚀 Simulazione Interattiva
+## 🚀 Simulazione Interattiva su Tinkercad
 
-Il circuito è stato interamente prototipato e testato su Tinkercad. È possibile avviare la simulazione software direttamente dal browser senza componenti fisici:
+Il circuito è stato interamente prototipato e testato online. Puoi interagire direttamente con il simulatore software, premere il pulsante di prenotazione pedonale e vedere il comportamento del sistema in tempo reale senza bisogno di hardware fisico.
 
-➡️ [**Apri e avvia la simulazione su Tinkercad**]
+▶️ [**Avvia la simulazione interattiva su Tinkercad**]
 
-(DA INSERIRE IL LINK TINKERCAD)
+(https://www.tinkercad.com/things/80Jv7yN3XH6-smart-traffic-light-arduino/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=JEMimNzoJyHrKP6r-3n_ySXuy4qbfUugjN1uczeIJZAE)
 
 ---
 
